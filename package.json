@@ -1,6 +1,6 @@
 {
   "name": "@subash-a/typedefs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "type definitions for hand maintained files",
   "main": "index.js",
   "scripts": {
