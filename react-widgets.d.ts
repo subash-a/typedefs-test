@@ -1,5 +1,3 @@
-/// <reference path="../../typings/globals/react/index.d.ts" />
-
 declare module "react-widgets" {
 	interface DropdownListProps<T> {
 		value?: T;

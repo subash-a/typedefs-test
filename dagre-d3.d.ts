@@ -1,6 +1,3 @@
-/// <reference path="../../typings/globals/d3/index.d.ts" />
-/// <reference path="dagre.d.ts"/>
-
 /* tslint:disable */
 declare namespace __DagreD3 {
 	var graphlib: GraphLib;
