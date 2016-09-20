@@ -1,0 +1,23 @@
+{
+  "name": "@subash-a/typedefs",
+  "version": "1.0.0",
+  "description": "type definitions for hand maintained files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/subash-a/typedefs-test.git"
+  },
+  "keywords": [
+    "typescript",
+    "typedefs"
+  ],
+  "author": "s7subash@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subash-a/typedefs-test/issues"
+  },
+  "homepage": "https://github.com/subash-a/typedefs-test#readme"
+}
